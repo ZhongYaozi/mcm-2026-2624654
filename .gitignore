@@ -1,0 +1,18 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+2026_MCM-ICM_latex/MCM-ICM_Summary.pdf
+
+# Drafts and internal notes
+*.docx
+lucky*.pdf
+*gemini*.pdf
+
+# Official contest materials (copyright)
+题目/
+
+# Other local folders
+代码/

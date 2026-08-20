@@ -1,0 +1,24 @@
+\subsection{Data Source} 
+\begin{table}[h]
+	% 保持标题在上方
+	\caption{Data sources} 
+	\vspace{-9mm} 
+	\begin{center}
+		% 关键修改：将 cl 改为 cc，实现【内容居中】
+		\begin{tabular}{cc} 
+			\toprule[1.5pt] % 顶部加粗横线
+			\textbf{No.} & \textbf{Website} \\
+			\midrule[0.6pt] % 中间自定义粗细横线
+			
+			1. & 2026\_MCM\_Problem\_C\_Data.xls \\
+			
+			% 使用 \small 稍微缩小字号，防止长网址居中后溢出页面
+			2. & \small\url{https://dancingwiththestars.fandom.com/wiki/Bobby_Bones} \\
+			
+			3. & \small\url{https://github.com/howisonlab/dwts_dataset/tree/main/dwts_dataset} \\
+			
+			\bottomrule[1.5pt] % 底部加粗横线
+		\end{tabular}
+	\end{center}
+	\label{tab:data_sources}
+\end{table}
