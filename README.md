@@ -12,7 +12,7 @@
 
 ## Model Overview
 
-![Model Overview](2026_MCM-ICM_latex/Fig/model-overview.png)
+![Model Overview](2026_MCM-ICM_latex/Fig/23.jpg)
 
 ## Problem & Approach
 
