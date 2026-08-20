@@ -10,6 +10,10 @@
 - `2624654.pdf` — Final submitted paper
 - `2026_MCM-ICM_latex/` — LaTeX source, figures, and references
 
+## Model Overview
+
+![Model Overview](2026_MCM-ICM_latex/Fig/model-overview.png)
+
 ## Problem & Approach
 
 节目淘汰由评委分与粉丝票共同决定，但粉丝票不公开。我们围绕「还原潜在粉丝票 → 比较规则 → 归因驱动因素 → 优化机制」展开。
